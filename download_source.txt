@@ -1,0 +1,1 @@
+https://dumps.wikimedia.org/enwiki/20220201/enwiki-20220201-iwlinks.sql.gz
